@@ -1,0 +1,1 @@
+{"jobID":"15684403-faac-e59e-a459-62f5218cebfb","spec":{"type":"policy","cause":{"Message":"","User":"Alex Zalesov \u003caleksey.zalesov@phystech.edu\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
